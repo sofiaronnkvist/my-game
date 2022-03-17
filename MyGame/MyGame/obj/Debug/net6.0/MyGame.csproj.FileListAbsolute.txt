@@ -1,0 +1,15 @@
+/Users/sofiaronnkvist/Documents/dev/C#/MyGame/MyGame/obj/Debug/net6.0/MyGame.csproj.AssemblyReference.cache
+/Users/sofiaronnkvist/Documents/dev/C#/MyGame/MyGame/obj/Debug/net6.0/MyGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofiaronnkvist/Documents/dev/C#/MyGame/MyGame/obj/Debug/net6.0/MyGame.AssemblyInfoInputs.cache
+/Users/sofiaronnkvist/Documents/dev/C#/MyGame/MyGame/obj/Debug/net6.0/MyGame.AssemblyInfo.cs
+/Users/sofiaronnkvist/Documents/dev/C#/MyGame/MyGame/obj/Debug/net6.0/MyGame.csproj.CoreCompileInputs.cache
+/Users/sofiaronnkvist/Documents/dev/C#/MyGame/MyGame/bin/Debug/net6.0/MyGame
+/Users/sofiaronnkvist/Documents/dev/C#/MyGame/MyGame/bin/Debug/net6.0/MyGame.deps.json
+/Users/sofiaronnkvist/Documents/dev/C#/MyGame/MyGame/bin/Debug/net6.0/MyGame.runtimeconfig.json
+/Users/sofiaronnkvist/Documents/dev/C#/MyGame/MyGame/bin/Debug/net6.0/MyGame.dll
+/Users/sofiaronnkvist/Documents/dev/C#/MyGame/MyGame/bin/Debug/net6.0/ref/MyGame.dll
+/Users/sofiaronnkvist/Documents/dev/C#/MyGame/MyGame/bin/Debug/net6.0/MyGame.pdb
+/Users/sofiaronnkvist/Documents/dev/C#/MyGame/MyGame/obj/Debug/net6.0/MyGame.dll
+/Users/sofiaronnkvist/Documents/dev/C#/MyGame/MyGame/obj/Debug/net6.0/ref/MyGame.dll
+/Users/sofiaronnkvist/Documents/dev/C#/MyGame/MyGame/obj/Debug/net6.0/MyGame.pdb
+/Users/sofiaronnkvist/Documents/dev/C#/MyGame/MyGame/obj/Debug/net6.0/MyGame.genruntimeconfig.cache
