@@ -1,10 +1,10 @@
 ﻿public class Bank
 	{
-		public int Balance { get; }
+		public int Money { get; set; }
 
-		public Bank(int balance)
+		public Bank(int money)
 		{
-			Balance = balance;
+			Money = money;
 		}
 	}
 

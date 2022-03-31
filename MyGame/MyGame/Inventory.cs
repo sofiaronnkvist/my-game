@@ -1,8 +1,6 @@
 ﻿public class Inventory
 {
-		public string Product { get; }
-		public Inventory(string product)
-		{
-			Product = product;
-		}
+		public string Product { get; set; }
+		public int Id { get; set; }
+		public int Price { get; set; }
 }
