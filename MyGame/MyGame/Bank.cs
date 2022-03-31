@@ -1,9 +1,12 @@
 ﻿public class Bank
 	{
-		public int Money { get; }
+		public int Balance { get; }
 
-		public Bank(int money)
+		public Bank(int balance)
 		{
-			Money = money;
+			Balance = balance;
 		}
 	}
+
+// En metod som justerar efter vad man spenderar
+// En metod som justerar efter hur mycket pengar man vill stoppa in

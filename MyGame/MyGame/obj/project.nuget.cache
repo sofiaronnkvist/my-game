@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HCspejlvFcnWa3NsNYUGgmLDHOxymfr+yYDZk4XDqm/g50pdjI6UVe+NzGX0W2tZTasVXL7c52Nzsj5ggkb8HQ==",
+  "dgSpecHash": "C47u9Ro3Kyo6CCPsK/AzgZPWpXSS/rNA8WH3C7iAOuxqTQIdp5/v1zmL2HlX0fUA4MNN6rSDLUgOypZcUSMYtA==",
   "success": true,
-  "projectFilePath": "/Users/sofiaronnkvist/Documents/dev/C#/MyGame/MyGame/MyGame.csproj",
+  "projectFilePath": "/Users/sofiaronnkvist/Documents/GitHub/my-game/MyGame/MyGame/MyGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

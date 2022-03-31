@@ -11,11 +11,13 @@
 
 // Vad vill du köpa? Skriv produkt och antal såhär: Twix, 2
 
-var user = new User("Sofia", 20);
+var customer = new User("Sofia", 20);
+var twix = new Inventory("Twix");
+var cookie = new Inventory("Cookie");
 
-var vendingMachine = new VendingMachine;
+var vendingMachine = new VendingMachine(customer);
 
-while (vendingMachine)
-{
-    vendingMachine
-}
+vendingMachine.Add(twix);
+vendingMachine.Add(cookie);
+
+vendingMachine.Run();

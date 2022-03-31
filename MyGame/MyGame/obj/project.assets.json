@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sofiaronnkvist/Documents/dev/C#/MyGame/MyGame/MyGame.csproj",
+      "projectUniqueName": "/Users/sofiaronnkvist/Documents/GitHub/my-game/MyGame/MyGame/MyGame.csproj",
       "projectName": "MyGame",
-      "projectPath": "/Users/sofiaronnkvist/Documents/dev/C#/MyGame/MyGame/MyGame.csproj",
+      "projectPath": "/Users/sofiaronnkvist/Documents/GitHub/my-game/MyGame/MyGame/MyGame.csproj",
       "packagesPath": "/Users/sofiaronnkvist/.nuget/packages/",
-      "outputPath": "/Users/sofiaronnkvist/Documents/dev/C#/MyGame/MyGame/obj/",
+      "outputPath": "/Users/sofiaronnkvist/Documents/GitHub/my-game/MyGame/MyGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sofiaronnkvist/.config/NuGet/NuGet.Config"

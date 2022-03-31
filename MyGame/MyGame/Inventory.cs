@@ -1,11 +1,8 @@
-﻿using System;
-namespace MyGame
+﻿public class Inventory
 {
-	public class Inventory
-	{
-		public Inventory()
+		public string Product { get; }
+		public Inventory(string product)
 		{
+			Product = product;
 		}
-	}
 }
-
